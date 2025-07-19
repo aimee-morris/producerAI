@@ -1,0 +1,4 @@
+# Minimal requirements to ensure core import works
+SQLAlchemy==1.4.52
+streamlit==1.36.0
+pandas==2.2.2
